@@ -12,6 +12,9 @@ Public home: [chinesestudyorg.github.io](https://chinesestudyorg.github.io/).
 - `/guides/reading-tang-poetry/`: Follow scene, speaker, and change; try an image map.
 - `/guides/tao-te-ching-and-analects/`: Trace a word through a chapter and read a conversation in its situation.
 
+- `/guides/reading-mencius/`: Follow the king’s question, an analogy, and the steps of an argument in Liang Hui Wang.
+- `/guides/reading-zhuangzi/`: Separate action, speakers, and interpretation, beginning with Cook Ding in Nurturing Life.
+
 The Chinese home introduces the English guides; it does not present them as translated articles.
 
 ## Preview locally
@@ -40,6 +43,11 @@ The guides link to [chinesestudy-guide](https://github.com/chinesestudyorg/chine
 
 ## Maintenance checks
 
-Before publishing an edit, check the five public pages at mobile and desktop widths, keyboard focus and skip navigation, internal links and section anchors, unique titles and descriptions, JSON-LD, sitemap URLs, and the relevant external reading pages. The layout supports reduced motion and printing. Assets are local; system font availability affects exact glyph shapes.
+Before publishing an edit, check the seven public pages at mobile and desktop widths, keyboard focus and skip navigation, internal links and section anchors, unique titles and descriptions, JSON-LD, sitemap URLs, and the relevant external reading pages. The layout supports reduced motion and printing. Assets are local; system font availability affects exact glyph shapes.
 
 `assets/social-card.svg` is an editable visual source. A local PNG is used in social metadata only when present; SVG is not declared as an Open Graph image. No license was added. Place any local-only notes in `.local/`, which is ignored by Git.
+
+
+## Content refresh — 15 October 2026
+
+Both home pages now link the Mencius and Zhuangzi exercises and describe the verified live scope: eight book entrances, 23 Liang Hui Wang sections, seven Zhuangzi Inner Chapters, and 306 Tang poetry catalogue entries. The Chinese home still labels the articles as English guides. The library and chapter pages were read directly before writing; future additions should be checked against the live contents rather than unpublished drafts.
