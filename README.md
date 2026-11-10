@@ -48,6 +48,6 @@ Before publishing an edit, check the seven public pages at mobile and desktop wi
 `assets/social-card.svg` is an editable visual source. A local PNG is used in social metadata only when present; SVG is not declared as an Open Graph image. No license was added. Place any local-only notes in `.local/`, which is ignored by Git.
 
 
-## Content refresh — 15 October 2026
+## Content refresh — 10 November 2026
 
-Both home pages now link the Mencius and Zhuangzi exercises and describe the verified live scope: eight book entrances, 23 Liang Hui Wang sections, seven Zhuangzi Inner Chapters, and 306 Tang poetry catalogue entries. The Chinese home still labels the articles as English guides. The library and chapter pages were read directly before writing; future additions should be checked against the live contents rather than unpublished drafts.
+Scope checked against current public catalogs: eleven book directories; Mencius260 and Zhuangzi33 reading entrances in each of Chinese and English; Tang poems306; Song Ci83 Chinese/78 English reading pages. These counts describe site entry coverage, not critical-edition completeness. Song Ci is still growing and language coverage differs. The two Chinese cultural articles are labeled as Chinese on the English home. Existing five guide exercises remain; obsolete Mencius/Zhuangzi scope paragraphs are updated, and the Tang-poetry guide links to the Song Ci directories. This refresh was approved for publication on 10 November 2026.
